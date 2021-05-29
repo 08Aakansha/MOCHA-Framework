@@ -1,0 +1,15 @@
+{
+  "name": "mocha_framework",
+  "version": "1.0.0",
+  "description": "Mocha & Chai testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
